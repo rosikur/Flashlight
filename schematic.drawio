@@ -1,0 +1,78 @@
+<mxfile host="65bd71144e">
+    <diagram id="DhxxpRWBwZJzLhhHUaFx" name="Page-1">
+        <mxGraphModel dx="261" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-9" edge="1" parent="1" source="cgl4-6cWtndubs_RrTyX-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5385;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;curved=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="130" y="80"/>
+                            <mxPoint x="560" y="80"/>
+                        </Array>
+                        <mxPoint x="560" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-1" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_1;pointerEvents=1;rotation=-90;" value="" vertex="1">
+                    <mxGeometry height="100" width="200" x="30" y="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LED(See BOM)&lt;div&gt;18 Watt 56 V ~0.3 Amp&lt;/div&gt;&lt;div&gt;98 CRI&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="70" width="150" x="200" y="225" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-10" edge="1" parent="1" source="cgl4-6cWtndubs_RrTyX-11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;curved=0;endArrow=none;endFill=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                        <mxPoint x="560" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-23" edge="1" parent="1" source="cgl4-6cWtndubs_RrTyX-3" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.216;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" target="cgl4-6cWtndubs_RrTyX-17">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="140" y="635"/>
+                        </Array>
+                        <mxPoint x="140" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-3" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.batteryStack;" value="" vertex="1">
+                    <mxGeometry height="150" width="160" x="240" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3S1P&lt;div&gt;Lets Say 2 Amps&lt;/div&gt;&lt;div&gt;3.7 - 4.2 V a 2 Amp&lt;/div&gt;&lt;div&gt;With 3S1P it`d be 11,1 Volts empty:11.1 V 2A 22.2 Watt&lt;/div&gt;&lt;div&gt;Full:12.6 V 2A 25,2 Watt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="120" width="160" x="240" y="730" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" value="" vertex="1">
+                    <mxGeometry height="100" width="70" x="95" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-8" edge="1" parent="1" source="cgl4-6cWtndubs_RrTyX-5" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5385;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;curved=0;" target="cgl4-6cWtndubs_RrTyX-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-12" edge="1" parent="1" source="cgl4-6cWtndubs_RrTyX-3" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;curved=0;endArrow=none;endFill=0;" target="cgl4-6cWtndubs_RrTyX-11" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="560" y="635"/>
+                        </Array>
+                        <mxPoint x="400" y="635" as="sourcePoint"/>
+                        <mxPoint x="560" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="3S1P&lt;div&gt;BMS&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="120" width="60" x="530" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-15" edge="1" parent="1" source="cgl4-6cWtndubs_RrTyX-14" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cgl4-6cWtndubs_RrTyX-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+                    <mxGeometry height="60" width="100" x="510" y="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3S1P&lt;div&gt;Lion Charger&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="70" width="60" x="530" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-17" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=-90;" value="" vertex="1">
+                    <mxGeometry height="20" width="75" x="92.5" y="527.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="cgl4-6cWtndubs_RrTyX-22" edge="1" parent="1" source="cgl4-6cWtndubs_RrTyX-17" style="edgeStyle=none;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="cgl4-6cWtndubs_RrTyX-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
