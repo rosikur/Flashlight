@@ -68,5 +68,5 @@ IF YOU TRY IT DM ME
 BTW this is how the CAD looks
 (I havnt added the usb c hole)
 ![cad](https://cdn.hackclub.com/01a0e405-fe89-751b-a67f-bc8473082f6b/img_2091.png)
-
+![CAD](https://cdn.hackclub.com/01a0ed7d-e0f8-7a43-9500-6aea3d7800a2/img_2097.jpg)
 Stay Creative!
