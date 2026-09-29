@@ -1,6 +1,6 @@
-# Flashlight
+# FlASH
 
-A DIY Flashlight^^
+### A DIY Flashlight^^
 
 A flashlight ... whats that
 Well a Flashlight is a long stick that produces Light
@@ -20,7 +20,7 @@ This is how the wiring diagramm will look like approx:
 So whats next , next well mske the Bill of Materials so that my Fans can steal my Invention ^^
 And then we'll make the case D:
 
-Quick Messaurements for our Case
+### Quick Messaurements for our Case
 
 LED
 19\*19 mm the diode is 17mm diameter
@@ -37,6 +37,20 @@ Well Rosi how will you make it now?
 
 We'll buy a metal tube, some metal Plating a switch, the rest of the components ideally a "lens" from like an old pair of glasses and some reflective white stuff no idea what its called also grab an external usb c female port we aint using the one on the Li ION charger
 
+### BOM
+
+| Item            | Description                     | Qty      | Price EUR | Price USD                         | Link                                                      | Extra                                             |
+| --------------- | ------------------------------- | -------- | --------- | --------------------------------- | --------------------------------------------------------- | ------------------------------------------------- |
+| Li Ion 18650    | Lithium Ion Cells               | 3        | /         | /                                 | buy locally                                               | buy locally                                       |
+| Switch          | any will do                     | 1        | 2E        | 3USD                              | https://a.aliexpress.com/_Eus4eum                         |                                                   |
+| Female USB C    | /                               | 1        | 2.75 EUR  | 3.14 USD                          | https://a.aliexpress.com/_EH2LJHy                         |                                                   |
+| Boost Convertor | CC Step up                      | 1        | 4.79 EUR  | 5.47 USD                          | https://a.aliexpress.com/_EIxaI8I                         |                                                   |
+| LED             | High CRI LED perfect for colors | 1        | 8.29 EUR  | 8.95 USD                          | https://a.aliexpress.com/_EHcYqE2                         | BUY THE 56 V one                                  |
+| BMS             | no boom                         | 1        | 1.59 EUR  | 1.82 USD                          | https://a.aliexpress.com/_EGKuwXM                         | BUY the #S 11.1 V 8 A with 3S FL10A A on its back |
+| LI Ion charger  | Safely charges                  | 1.59 EUR | 1.82 USD  | https://a.aliexpress.com/_EvryTWW | Buy the 3S 4A one even though i think theyre all the same |                                                   |
+
+### How to Wire
+
 Wire it like on the schematic so first,
 
 1. Wire the Batteries in Serial and to the bms if you cant figure it out there are great online diagramms which i wont link for copyright reasons
@@ -47,6 +61,8 @@ Wire it like on the schematic so first,
 6. (make sure the switch is off or you'll get blind)Wire the LED also to the + and - Ports on the step up( If u use my design do this later)
 
 If ur House burns down I am NOT taking responsibility
+
+### How to Build it
 
 You could 3d Print it but im Using a metalltube
 
@@ -61,6 +77,8 @@ Please for the Love of God Almighty PLEASE use a HEATSINK with THERMAL PASTE the
 now weld the top plate and add another tube place the heat sink to it and add an optic if u like
 thats it
 Pray that it works and have Fun:D
+
+You can use ANYTHING like a Pringels can a Monster Can just dont ask fuckass chatgpt to make u an idea
 
 THIS IS ONLY A PROOF OF CONCEPT
 I WILL NOT TEST IT MYSELF
